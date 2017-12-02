@@ -39,12 +39,12 @@ Go back into the terminal and type in these commands:
 <br/>
 
 Open up another terminal session and type in these following commands:
+(See that the tables now have appeared)
 <ul>
   <li>psql</li>
   <li>\c baby_names_development</li>
   <li>\dt+;</li>
 </ul>
-(See that the tables now have appeared)
 
 <br/>
 
@@ -56,10 +56,10 @@ Go back to the bash terminal session and type:
 <br/>
 
 Go to the psql terminal session and type:
+(See that 1 table has disappeared)
 <ul>
 <li>\dt+;</li>
 </ul>
-(See that 1 table has disappeared)
 
 <br/>
 
@@ -71,10 +71,10 @@ Go back to the bash terminal session and type:
 <br/>
 
 Go to the psql terminal session and type:
+(See that 1 table has appeared)
 <ul>
 <li>\dt+;</li>
 </ul>
-(See that 1 table has appeared)
 
 <br/>
 
@@ -86,10 +86,10 @@ Go back to the bash terminal session and type:
 <br/>
 
 Go to the psql terminal session and type:
+(See that 1 table has disappeared)
 <ul>
 <li>\dt+;</li>
 </ul>
-(See that 1 table has disappeared)
 
 <br/>
 
@@ -101,10 +101,10 @@ Go back to the bash terminal session and type:
 <br/>
 
 Go to the psql terminal session and type:
+(See the table has appeared)
 <ul>
 <li>\dt+;</li>
 </ul>
-(See the table has appeared)
 
 <br/>
 
