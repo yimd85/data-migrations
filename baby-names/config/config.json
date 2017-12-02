@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "yimd85",
+    "password": null,
+    "database": "baby_names_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "yimd85",
+    "password": null,
+    "database": "baby_names_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "dialect": "postgres"
+  }
+}
